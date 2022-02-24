@@ -3,7 +3,7 @@
 namespace OlaMundo
 {
     /// <summary>
-    /// Your Mom ayylmao
+    /// Função
     ///<summary>
     class Program
     {
